@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: The homepage of Yukinari Schiltz, mathematics and physics enthusiast
+description: What you will find here are just personal ideas and jottings
+plugins: 
+  - jemoji
+url: https://yukinarischiltz.github.io
+markdown: kramdown
